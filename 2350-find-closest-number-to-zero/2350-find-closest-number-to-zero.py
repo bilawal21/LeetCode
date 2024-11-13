@@ -11,7 +11,6 @@ class Solution:
             return closest
 
 
-obj = Solution()
-nums = [-4, -2, 1, 4, 8]
-result = obj.findClosestNumber(nums)
-print(result)
+# Time: O(n)
+# Space: O(1)
+
