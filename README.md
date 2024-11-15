@@ -14,10 +14,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bilawal21/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/bilawal21/LeetCode/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/bilawal21/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bilawal21/LeetCode/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/bilawal21/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -35,5 +37,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bilawal21/LeetCode/tree/master/0013-roman-to-integer) |
 | [1894-merge-strings-alternately](https://github.com/bilawal21/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
