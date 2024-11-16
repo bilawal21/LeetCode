@@ -9,8 +9,10 @@ class Solution:
             merged.append(word2[p2])
             p1 += 1
             p2 += 1
+
         merged.append(word1[p1:])
         merged.append(word2[p2:])
+
         return "".join(merged)
 
 # Time: O(n + m)
