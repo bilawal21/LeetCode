@@ -11,11 +11,11 @@ class Solution:
                 sum += d[s[i+1]] - d[s[i]]
                 i += 2
             else:
-                sum += d[s[i]]
+                sum += d[s[i]] 
                 i += 1
 
         return sum
-
+    
 
 # Time: O(n)
 # Space: O(1)
