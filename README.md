@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/bilawal21/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/bilawal21/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bilawal21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1635-number-of-good-pairs](https://github.com/bilawal21/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/bilawal21/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -44,5 +45,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bilawal21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/bilawal21/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
