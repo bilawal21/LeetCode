@@ -1,22 +1,19 @@
 class Solution:
-    def maxProfit(self, prices):
-        l, r = 0, 1 # left=buy, right=sell
-        maxP = 0
+    def maxProfit(self, prices: List[int]) -> int:
+        min_price = float('inf')
+        max_profit = 0
 
-        while r < len(prices):
-            if prices[l] < prices[r]:
-                profit = prices[r] - prices[l]
-                maxP = max(maxP, profit)
-            else:
-                l = r
-            r += 1
+        for price in prices:
+            if price < min_price:
+                min_price = price
+            
+            profit = price - min_price
 
-        return maxP
+            if profit > max_profit:
+                max_profit = profit
+
+        return max_profit
 
 
-
-obj = Solution()
-prices = [7,1,5,3,6,4]
-result = obj.maxProfit(prices)
-print(result)
-        
+# Time: O(n)
+# Space: O(1)
