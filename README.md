@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bilawal21/LeetCode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/bilawal21/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bilawal21/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/bilawal21/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/bilawal21/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bilawal21/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/bilawal21/LeetCode/tree/master/0048-rotate-image) |
 | [1635-number-of-good-pairs](https://github.com/bilawal21/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bilawal21/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bilawal21/LeetCode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
