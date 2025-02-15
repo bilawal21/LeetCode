@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/bilawal21/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/bilawal21/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/bilawal21/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bilawal21/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/bilawal21/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/bilawal21/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/bilawal21/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -49,11 +50,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/bilawal21/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/bilawal21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bilawal21/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bilawal21/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bilawal21/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bilawal21/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/bilawal21/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/bilawal21/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bilawal21/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/bilawal21/LeetCode/tree/master/0782-jewels-and-stones) |
