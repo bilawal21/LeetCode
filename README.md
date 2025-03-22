@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/bilawal21/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1635-number-of-good-pairs](https://github.com/bilawal21/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/bilawal21/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2551-apply-operations-to-an-array](https://github.com/bilawal21/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/bilawal21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/bilawal21/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/bilawal21/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2551-apply-operations-to-an-array](https://github.com/bilawal21/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -95,4 +97,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bilawal21/LeetCode/tree/master/0054-spiral-matrix) |
+| [2551-apply-operations-to-an-array](https://github.com/bilawal21/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
