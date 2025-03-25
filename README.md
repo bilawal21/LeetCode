@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/bilawal21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/bilawal21/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/bilawal21/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/bilawal21/LeetCode/tree/master/0283-move-zeroes) |
 | [1635-number-of-good-pairs](https://github.com/bilawal21/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/bilawal21/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/bilawal21/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/bilawal21/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/bilawal21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/bilawal21/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/bilawal21/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/bilawal21/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/bilawal21/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/bilawal21/LeetCode/tree/master/2551-apply-operations-to-an-array) |
