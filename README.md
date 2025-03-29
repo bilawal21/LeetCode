@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/bilawal21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/bilawal21/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/bilawal21/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/bilawal21/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bilawal21/LeetCode/tree/master/0283-move-zeroes) |
 | [1635-number-of-good-pairs](https://github.com/bilawal21/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/bilawal21/LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/bilawal21/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/bilawal21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bilawal21/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bilawal21/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/bilawal21/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/bilawal21/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/bilawal21/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/bilawal21/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/bilawal21/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bilawal21/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/bilawal21/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/bilawal21/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -69,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/bilawal21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bilawal21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bilawal21/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bilawal21/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -105,4 +109,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/bilawal21/LeetCode/tree/master/0054-spiral-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/bilawal21/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/bilawal21/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/bilawal21/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
