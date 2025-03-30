@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/bilawal21/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bilawal21/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bilawal21/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/bilawal21/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1635-number-of-good-pairs](https://github.com/bilawal21/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/bilawal21/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/bilawal21/LeetCode/tree/master/2551-apply-operations-to-an-array) |
